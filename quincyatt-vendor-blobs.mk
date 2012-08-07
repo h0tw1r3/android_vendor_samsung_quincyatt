@@ -27,15 +27,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_net.txt_murata:system/etc/wifi/nvram_net.txt_murata \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata:system/etc/wifi/nvram_mfg.txt_murata \
-	vendor/samsung/quincyatt/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
-	vendor/samsung/quincyatt/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
-	vendor/samsung/quincyatt/proprietary/lib/libPanoraMax3.so:system/lib/libPanoraMax3.so \
-	vendor/samsung/quincyatt/proprietary/lib/libActionShot.so:system/lib/libActionShot.so \
-	vendor/samsung/quincyatt/proprietary/lib/libexifa.so:system/lib/libexifa.so \
-	vendor/samsung/quincyatt/proprietary/lib/libjpega.so:system/lib/libjpega.so \
-	vendor/samsung/quincyatt/proprietary/lib/libsecjpeginterface.so:system/lib/libsecjpeginterface.so \
-	vendor/samsung/quincyatt/proprietary/lib/libhdr.so:system/lib/libhdr.so \
-	vendor/samsung/quincyatt/proprietary/lib/libcaps.so:system/lib/libcaps.so \
 	vendor/samsung/quincyatt/proprietary/bin/immvibed:system/bin/immvibed \
 	vendor/samsung/quincyatt/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/samsung/quincyatt/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
