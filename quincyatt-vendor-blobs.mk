@@ -18,8 +18,7 @@
 PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
 	vendor/samsung/quincyatt/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
-	vendor/samsung/quincyatt/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
-	vendor/samsung/quincyatt/proprietary/lib/libv8.so:obj/lib/libv8.so
+	vendor/samsung/quincyatt/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
 
 # Proprietary files
 PRODUCT_COPY_FILES += \
@@ -94,7 +93,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
 	vendor/samsung/quincyatt/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
 	vendor/samsung/quincyatt/proprietary/lib/libdiag.so:system/lib/libdiag.so \
-	vendor/samsung/quincyatt/proprietary/lib/libv8.so:system/lib/libv8.so \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/bcm4330_apsta.bin:system/etc/wifi/bcm4330_apsta.bin \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/wl:system/etc/wifi/wl \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
