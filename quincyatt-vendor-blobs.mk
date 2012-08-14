@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_net.txt_murata:system/etc/wifi/nvram_net.txt_murata \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata:system/etc/wifi/nvram_mfg.txt_murata \
+	vendor/samsung/quincyatt/proprietary/bin/macloader:system/bin/macloader \
 	vendor/samsung/quincyatt/proprietary/bin/immvibed:system/bin/immvibed \
 	vendor/samsung/quincyatt/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/samsung/quincyatt/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
@@ -41,6 +42,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
 	vendor/samsung/quincyatt/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
 	vendor/samsung/quincyatt/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+	vendor/samsung/quincyatt/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+	vendor/samsung/quincyatt/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
 	vendor/samsung/quincyatt/proprietary/lib/libwvm.so:system/lib/libwvm.so \
 	vendor/samsung/quincyatt/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
 	vendor/samsung/quincyatt/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
