@@ -104,7 +104,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/bcm4330_sta.bin:system/etc/wifi/bcm4330_sta.bin \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/bcm4330_mfg.bin:system/etc/wifi/bcm4330_mfg.bin \
 	vendor/samsung/quincyatt/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
-	vendor/samsung/quincyatt/proprietary/bin/hostapd:system/bin/hostapd \
 	vendor/samsung/quincyatt/proprietary/etc/firmware/cyttsp_8660_ffa.hex:system/etc/firmware/cyttsp_8660_ffa.hex \
 	vendor/samsung/quincyatt/proprietary/etc/firmware/cyttsp_8660_fluid_p2.hex:system/etc/firmware/cyttsp_8660_fluid_p2.hex \
 	vendor/samsung/quincyatt/proprietary/etc/firmware/cyttsp_8660_fluid_p3.hex:system/etc/firmware/cyttsp_8660_fluid_p3.hex \
