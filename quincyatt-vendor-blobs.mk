@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
 
 # Device family proprietary files
 PRODUCT_COPY_FILES += \
+        vendor/samsung/quincyatt/proprietary/bin/macloader:system/bin/macloader \
         vendor/samsung/quincyatt/proprietary/bin/immvibed:system/bin/immvibed \
         vendor/samsung/quincyatt/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
         vendor/samsung/quincyatt/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
@@ -93,6 +94,7 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/quincyatt/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
         vendor/samsung/quincyatt/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
         vendor/samsung/quincyatt/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
+        vendor/samsung/quincyatt/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
         vendor/samsung/quincyatt/proprietary/lib/libdiag.so:system/lib/libdiag.so \
         vendor/samsung/quincyatt/proprietary/lib/libv8.so:system/lib/libv8.so \
         vendor/samsung/quincyatt/proprietary/etc/wifi/bcm4330_apsta.bin:system/etc/wifi/bcm4330_apsta.bin \
